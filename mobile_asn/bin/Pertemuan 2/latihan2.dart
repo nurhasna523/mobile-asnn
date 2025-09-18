@@ -5,4 +5,3 @@ void main(List<String> args) {
     print("$key : $value");
   });
 }
-//buat data from login data diambil dari dati diatas
